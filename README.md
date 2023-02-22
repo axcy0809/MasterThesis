@@ -5,6 +5,7 @@ finaly end and get my Master´s degree
 This file collects all important sources for my work. Including links to papers, reposetories and videos.
 ## genetic sequence
 Analyse a sequence and predict various thins -> TODO which
+[description](https://github.com/axcy0809/MasterThesis/blob/main/research/geneticSequence.md)
 ### paper:
 - https://www.nature.com/articles/s41598-020-64655-4#article-comments 
 - https://www.nature.com/articles/s41586-022-04779-x (unreadable)

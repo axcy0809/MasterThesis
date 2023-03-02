@@ -22,6 +22,8 @@ Analyse a sequence and predict various thins -> TODO which
 ## Attention is all you need
 ### paper:
 - https://arxiv.org/pdf/1706.03762.pdf 
+### article
+https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec
 ### video:
 - https://www.youtube.com/watch?v=U0s0f995w14
 
@@ -32,3 +34,8 @@ Analyse a sequence and predict various thins -> TODO which
 - https://github.com/KasperGroesLudvigsen/influenza_transformer 
 ### article:
 - https://towardsdatascience.com/how-to-make-a-pytorch-transformer-for-time-series-forecasting-69e073d4061e 
+
+# Releant Things
+## Kaggle GPU service
+## Google GPU service
+
